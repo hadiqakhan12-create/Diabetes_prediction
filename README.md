@@ -30,7 +30,7 @@ I developed 10 new features to provide a "Performance Delta" (measured improveme
 - **Correlation Matrix:** Proving that engineered features (like `risk_score`) have a stronger relationship with the outcome than raw readings.
 
 ## 🚀 How to Use
-1. Clone the repo: `https://github.com/hadiqakhan12-create/Diabetes_prediction/edit/main/README.md`
+1. Clone the repo: "https://github.com/hadiqakhan12-create/Diabetes_prediction"
 2. Run the Jupyter Notebook: `medical.ipynb`
 3. Required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`
 
